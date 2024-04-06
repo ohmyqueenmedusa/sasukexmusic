@@ -1,34 +1,34 @@
 <h2 align="center">
-    ──「 SlayerX Music 」──
+    ──「 ꜰᴏʀʙɪᴅᴅᴇɴ ✘  ᴍᴜꜱɪᴄ 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/e27e233e14eb9f3271885.jpg">
+  <img src="https://te.legra.ph/file/93c04cdd4b9bf9b650afe.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/AtulxD/SlayerX/stargazers"><img src="https://img.shields.io/github/stars/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AtulxD/SlayerX/network/members"> <img src="https://img.shields.io/github/forks/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AtulxD/SlayerX/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/ohmyqueenmedusa/sasukexmusic"><img src="https://img.shields.io/github/stars/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/ohmyqueenmedusa/sasukexmusic/network/members"> <img src="https://img.shields.io/github/forks/ohmyqueenmedusa/sasukexmusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/ohmyqueenmedusa/sasukexmusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AtulxD/SlayerX/commits/SlayerX"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/ohmyqueenmedusa/sasukexmusic/commits/sasukexmusic"> <img src="https://img.shields.io/github/last-commit/ohmyqueenmedusa/sasukexmusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/db7653b29f9b702cb12f8.jpg">
+  <img src="https://te.legra.ph/file/93c04cdd4b9bf9b650afe.jpg">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Learningbots79/LB_Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ohmyqueenmedusa/sasukexmusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/AtulxD/SlayerX/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/ohmyqueenmedusa/sasukexmusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -40,7 +40,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AtulxD/SlayerX && cd SlayerX`
+`git clone https://github.com/ohmyqueenmedusa/sasukexmusic && cd SlayerX`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -61,11 +61,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/NOxDISCUSSION"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Sasuke12Kchat"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/SUDO_APT_UDATE"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Sasuke12Ktech"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ᴀɴᴏɴx ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/AnonXMusic)_ </b>
